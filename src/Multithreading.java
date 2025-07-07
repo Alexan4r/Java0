@@ -37,7 +37,7 @@ public class Multithreading {
             }
         });
 
-        // запуск обоих потоков
+        // запуск обоих потоков:
         thread1.start();
         thread2.start();
     }
